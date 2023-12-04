@@ -1,5 +1,5 @@
 # Wii-Nano PSU
-Features: 
+# Features: 
 - 4.5-17V input
 - 1.0V, 1.15V, and 3.3V output rail for trimmed Wii motherboard
 - Enable pin for easy power on/off of PSU
