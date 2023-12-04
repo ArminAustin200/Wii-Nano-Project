@@ -1,4 +1,4 @@
-  # Wii-Nano Audio Board
+  # Wii-Nano Amp
 Features:
 - I2S Audio input direct from Wii motherboard
 - I2C Volume control input
