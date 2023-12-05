@@ -5,4 +5,4 @@ Features:
 - Enable pin for easy power on/off of PSU
 - 4.0A current capability per rail
   
-![Wii Custom Power Board (Rev 1 4)](https://github.com/ArminAustin200/Wii-Nano-Project/assets/145053354/f553fd10-0621-4c5b-9477-2e2263e52263)
+![Wii Custom Power Board (Rev 1 4)](https://github.com/ArminAustin200/Wii-Nano-Project/assets/145053354/05e121ec-a3d3-4263-b9a4-b021d2add86a)
