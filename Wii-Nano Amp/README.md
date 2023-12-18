@@ -5,6 +5,5 @@ Features:
 - Built-in headphone jack
 - Headphone presence detection
 - 2.5W audio output per (speaker) channel
-- JST connector input or direct solder
 
-  ![Wii Custom Audio Board (I2S)](https://github.com/ArminAustin200/Wii-Nano-Project/assets/145053354/0bb15074-6873-4fd1-bcae-1d904955df02)
+![Wii Custom Audio Board (I2S)](https://github.com/ArminAustin200/Wii-Nano-Project/assets/145053354/fe288c71-3c4d-4c26-a950-05490ec2a0a7)
