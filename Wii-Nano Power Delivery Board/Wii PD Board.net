@@ -1,7 +1,7 @@
 (export (version "E")
   (design
-    (source "Z:\\Armin's Files\\Wii Project\\Wii Power Delivery Board\\Wii PD Board.kicad_sch")
-    (date "12/21/2023 10:23:47 PM")
+    (source "C:\\Users\\Armin\\Desktop\\Wii Project\\Wii PD Board\\Wii PD Board.kicad_sch")
+    (date "1/18/2024 11:50:57 AM")
     (tool "Eeschema 7.0.9")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -260,16 +260,12 @@
         (pin (num "SH3") (name "SHELL_GND__2") (type "power_in"))
         (pin (num "SH4") (name "SHELL_GND__3") (type "power_in")))))
   (libraries
-    (library (logical "74LVC163PW_TSSOP16")
-      (uri "Z:/Armin's Files/Wii Project/Wii Power Delivery Board/74LVC163PW_TSSOP16/74LVC163PW_TSSOP16.kicad_sym"))
     (library (logical "Connector")
       (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Connector.kicad_sym"))
     (library (logical "Device")
       (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Device.kicad_sym"))
     (library (logical "Simulation_SPICE")
-      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Simulation_SPICE.kicad_sym"))
-    (library (logical "USB4105-GF-A")
-      (uri "Z:/Armin's Files/Wii Project/Wii Power Delivery Board/USB4105_GF_A/USB4105-GF-A.kicad_sym")))
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Simulation_SPICE.kicad_sym")))
   (nets
     (net (code "1") (name "+15VOUT")
       (node (ref "C2") (pin "1") (pintype "passive"))
