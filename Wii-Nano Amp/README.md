@@ -1,6 +1,6 @@
   # Wii-Nano Amp
 Features:
-- Based around the [LM49450](https://www.ti.com/lit/ds/symlink/lm49450.pdf?ts=1707939079954&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM49450) IC
+- Designed around the [LM49450](https://www.ti.com/lit/ds/symlink/lm49450.pdf?ts=1707939079954&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM49450) IC
 - I2S Audio input direct from Wii motherboard
 - I2C Volume control
 - Built-in headphone jack
