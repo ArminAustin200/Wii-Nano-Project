@@ -1,6 +1,6 @@
 # Wii-Nano PD Board
 Features:
-- Designed around the IP2721 IC
+- Designed around the [IP2721](https://github.com/ArminAustin200/Wii-Nano-Project/files/14289473/IP2721.PDF) IC
 - USB Type C input
 - 15V DC Output (Over USB Power Delivery Standard)
 - USB 2.0 data transfer
